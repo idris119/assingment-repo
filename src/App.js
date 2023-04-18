@@ -1,6 +1,6 @@
 //import logo from './logo.svg';
 import './App.css';
-import Tommy from "/home/moringa/Development/code/phase-2/myReactApp/my-react-app/src/Tommy/tommy.jpg";
+import Tommy from "/home/moringa/Development/code/phase-2/myReactApp/my-react-app/assingment-repo/src/Tommy/tommy.jpg";
 import React from 'react'; 
 
 function Greetings(){
